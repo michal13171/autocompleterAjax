@@ -1,0 +1,12 @@
+{
+    "name": "micha/public",
+    "authors": [
+        {
+            "name": "Michał Kukuła",
+            "email": "michal131711@gmail.com"
+        }
+    ],
+    "require": {
+        "hemiframe/php-websocket": "~1.7"
+    }
+}

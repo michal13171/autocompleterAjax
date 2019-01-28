@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3c6ee4e997eeaca4c83f958990a1f8d0",
+    "packages": [
+        {
+            "name": "hemiframe/php-websocket",
+            "version": "1.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/heminei/php-websocket.git",
+                "reference": "1797c233b801763206b3ad529d6d02775ebb04d7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/heminei/php-websocket/zipball/1797c233b801763206b3ad529d6d02775ebb04d7",
+                "reference": "1797c233b801763206b3ad529d6d02775ebb04d7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "HemiFrame\\": "src/HemiFrame"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Martin",
+                    "email": "heminei@heminei.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP WebSocket server and client library",
+            "keywords": [
+                "WebSockets",
+                "client",
+                "php",
+                "server",
+                "websocket"
+            ],
+            "time": "2018-12-06T19:41:59+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
