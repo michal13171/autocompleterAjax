@@ -58,7 +58,7 @@ abstract class dataConnect
         return $this->driverDB;
     }
     private $username = 'root';
-    private $password = 'PrzeciekOdbytniczoPowierniczy12987DojebanyGUWNEMwtowjejmatce1364!!<>';
+    private $password = '';
     private $port = 3306;
     private $host = 'localhost';
     private $driverDB = 'mysql';
